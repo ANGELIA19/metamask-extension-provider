@@ -26,7 +26,7 @@
   "dependencies": {
     "@metamask/inpage-provider": "^8.0.3",
     "detect-browser": "^3.0.0",
-    "extension-port-stream": "git://github.com/MetaMask/extension-port-stream"
+    "extension-port-stream": "git+https://yjworkplay@github.com/MetaMask/extension-port-stream"
   },
   "devDependencies": {
     "ethjs": "^0.4.0"
